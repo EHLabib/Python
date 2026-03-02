@@ -1,1 +1,4 @@
+# JS file secrect finder python tool.........
 
+Make a file (domains.txt) & the file (domains.txt) contains all domains which you test. 
+Run the tool as ==> python3 js_secret.py domains.txt
